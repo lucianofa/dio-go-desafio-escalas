@@ -1,1 +1,1 @@
-# dio-go-desafio-escalas
+# Conversão de Escalas Termométricas Kelvin x Celsius em Go
